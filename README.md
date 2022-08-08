@@ -1,38 +1,3 @@
-### Contents
-
-Exam Work:
-- box_overlap.py 
-- divisors.py
-- list_difference.py
-- random_pins.py
-- word_puzzle:
-	- word_puzzle.py
-	- wordlist.py
-	- wordlist.txt
-
-Function Work:
-- Week4Functions.py
-- Lab05fun.py
-- Week7.py
-- Week8.py
-- Week9a.py
-
-Guessing Games:
-- Guessing1.py
-- Guessing2.py
-- Guessing3.py
-
-Labs:
-- Lab_01
-- Lab_02
-- Lab_03 
-- Lab_04 
-- Lab_05 
-- Lab_06
-- Lab_07
-- Lab_08
-
-
 ### Highlights
 **Lab_01:**
 In this lab I implemented my knowledge of algorithms and functions to draw a variety of shapes using the turtle module in Python. I utilized many additional features of this module such as pen size, fill color, and turtle movement. 
